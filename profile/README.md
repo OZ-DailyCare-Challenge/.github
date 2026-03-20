@@ -3,7 +3,7 @@
 
 고혈압과 당뇨 관리의 핵심인 '생활습관'을 게임처럼 즐겁게 개선할 수 있도록 돕는 웹 서비스 프로젝트입니다.
 
-<img width="1024" height="1043" alt="Gemini_Generated_Image_8cyomd8cyomd8cyo" src="https://github.com/user-attachments/assets/828766d0-9986-4211-8f5e-b689c01797d3" />
+<img width="2048" height="2086" alt="햄스터 단체" src="https://github.com/user-attachments/assets/d7a281a7-976a-4556-b745-81cafbb70aab" />
 
 ## 🎯 Project Goals
 - **혈당/혈압 데이터 시각화**: 복잡한 수치를 직관적인 그래프로 제공
